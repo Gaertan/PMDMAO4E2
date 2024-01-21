@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMDMAO4E2</string>
+    <string name="automaticamente_literal">Auto\n</string>
+    <string name="presiona_boton_literal">presiona el boton y di algo\n</string>
+    <string name="resultado_traducido_aqui_literal">resultado traducido aqui</string>
+    <string name="traducir_literal">traducir</string>
+    <string name="reproducir_literal">reproducir</string>
+    <string name="app_titulo">App traductor PMDMAO2024</string>
+</resources>
